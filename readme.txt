@@ -6,5 +6,6 @@ now I know a little
 
 and I am trying a little more
 
-Creating a new branch
+Creating a new branch called master
+
 
