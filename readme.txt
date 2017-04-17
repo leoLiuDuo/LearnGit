@@ -9,3 +9,4 @@ Creating a new branch called master and featurel
 
 trying to clone and copy
 
+We have 10 people
